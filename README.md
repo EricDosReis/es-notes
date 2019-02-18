@@ -36,7 +36,7 @@
   * [Map](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#map)
   * [WeakMap](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#weakmap)
     * [WeakSet, WeakMap and the Garbage Collector](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#weakset-weakmap-and-the-garbage-collector)
-* [ES 2016](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#ecmascript-2016)
+* [ES 2016](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#ecmascript-2016)
     
 
   
