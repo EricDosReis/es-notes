@@ -37,12 +37,17 @@
   * [WeakMap](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#weakmap)
     * [WeakSet, WeakMap and the Garbage Collector](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#weakset-weakmap-and-the-garbage-collector)
 * [ES 2016](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#ecmascript-2016)
-    
-
+  * [Exponential Operator](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#exponential-operator)
+  * [Array.prototype.includes](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#arrayprototypeincludes)
+* [ES 2017](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#ecmascript-2017)
+  * [Async/Await](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#asyncawait)
+    * [Advantages](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#advantages)
+    * [Treating erros with Try/Catch](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#treating-erros-with-trycatch)
+    * [Async/Await with multiples Promises](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#asyncawait-with-multiples-promises)   
+  * [PadStart and PadEnd](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#padstart-and-padend)
+  * [Object.entries()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#objectentries)
+  * [Object.values()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#objectvalues)
+  * [Object.getOwnPropertyDescriptors()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#objectgetownpropertydescriptors)
+  * [Trailing Commas](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#trailing-commas)
+* [ES 2018](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018.md#ecmascript-2018)
   
-  
-  
-  
-  
-  
-    
