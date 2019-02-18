@@ -31,7 +31,6 @@
     * [Generators with Asynchronous Flows](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#generators-with-asynchronous-flows)
   * [Proxy](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#proxy)
   * [Set](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#set)
-  * [Set](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#set)
     * [Array with unique values](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#array-with-unique-values)
   * [WeakSet](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#weakset)
   * [Map](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#map)
