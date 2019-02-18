@@ -18,7 +18,7 @@
     * [Swap variables with Destructuring](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#swap-variables-with-destructuring)
   * [Spread Operator](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#spread-operator)
     * [Spread Operator with Functions](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#spread-operator-with-functions)
-  * [Spread Operator](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#restgather-operator)
+  * [Rest/Gather Operator](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#restgather-operator)
     
   
    
