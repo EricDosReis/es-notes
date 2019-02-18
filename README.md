@@ -1,12 +1,12 @@
 # ECMAScript notes
 
-* [ES 2015](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md)
+* [ES 2015](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#ecmascript-2015)
   * [Arrow Functions](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrow-functions)
   * [Template Literals](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#template-literals)
     * [Tagged Template](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#tagged-template)
   * [Shorthand Properties](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#shorthand-properties)
   * [Default Parameters](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#default-parameters)
-  * [New String Methods](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#new-strings-methods)
+  * [New String Methods](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#new-string-methods)
   * [New Array Methods](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#new-array-methods)
     * [Array.from()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrayfrom)
     * [Array.of()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrayof)
