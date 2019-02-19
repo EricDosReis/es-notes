@@ -1,4 +1,4 @@
-# ES Modules
+# ECMAScript Modules
 
 ## Import
 
