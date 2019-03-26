@@ -68,5 +68,5 @@
   * [RegExp Unicode property escapes](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#regexp-unicode-property-escapes)
   * [RegExp Lookbehind Assertions](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#regexp-lookbehind-assertions)
   * [s (dotAll) flag for regular expressions](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#s-dotall-flag-for-regular-expressions)
-  * [promise.prototype.finally()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#promiseprototypefinally)
+  * [Promise.prototype.finally()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#promiseprototypefinally)
 * [ES 2019](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#ecmascript-2019)
