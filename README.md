@@ -42,6 +42,7 @@
   * [Map](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#map)
   * [WeakMap](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#weakmap)
     * [WeakSet, WeakMap and the Garbage Collector](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#weakset-weakmap-and-the-garbage-collector)
+* [ES Modules](https://github.com/EricDosReis/es-notes/blob/master/ES-MODULES.md#ecmascript-modules)
 * [ES 2016](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#ecmascript-2016)
   * [Exponential Operator](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#exponential-operator)
   * [Array.prototype.includes](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#arrayprototypeincludes)
