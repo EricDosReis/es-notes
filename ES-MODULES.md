@@ -56,3 +56,5 @@ export default sum;
 // Only one export * per file
 export * as utils;
 ```
+
+[Next section - ECMAScript 2016/2017/2018/2019 features](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#ecmascript-2016)
