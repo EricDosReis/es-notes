@@ -16,7 +16,7 @@
     * [Array.from()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrayfrom)
     * [Array.of()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrayof)
     * [Array.prototype.find() and Array.prototype.findIndex()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrayprototypefind-and-arrayprototypefindindex)
-    * [Array.fill()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrayfill)
+    * [Array.prototype.fill()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrayprototypefill)
   * [Destructuring](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#destructuring)
     * [Destructuring Object](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#destructuring-object)
     * [Destructuring Array](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#destructuring-array)
