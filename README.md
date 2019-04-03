@@ -9,6 +9,7 @@
     * [How this works with Arrow Functions](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#how-this-works-with-arrow-functions)
       * [DOM listeners](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#dom-listeners)
       * [call(), apply() and bind()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#call-apply-and-bind)
+      * [Constructors and generators](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#constructors-and-generators)
     * [arguments](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arguments)
   * [Template Literals](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#template-literals)
     * [Tagged Template](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#tagged-template)
