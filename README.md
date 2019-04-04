@@ -6,6 +6,7 @@
     * [Multiples parameters](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#multiples-parameters)
     * [Returning an object literal](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#returning-an-object-literal)
     * [Using inside array methods like map, reduce or filter](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#using-inside-array-methods-like-map-reduce-or-filter)
+    * [Using with Rest Parameter](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#using-with-rest-parameter)
     * [How this works with Arrow Functions](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#how-this-works-with-arrow-functions)
       * [DOM listeners](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#dom-listeners)
       * [call(), apply() and bind()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#call-apply-and-bind)
