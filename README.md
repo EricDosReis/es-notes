@@ -1,6 +1,14 @@
 # ECMAScript notes
 
 * [ES 2015](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#ecmascript-2015)
+  * [var, let and const](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#var-let-and-const)
+    * [var allow redefinition](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#var-allow-redefinition)
+    * [let and const redefinition is not allowed](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#let-and-const-redefinition-is-not-allowed)
+    * [var is not block scoped](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#var-is-not-block-scoped)
+    * [let and const are block scoped](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#let-and-const-are-block-scoped)
+    * [const reassignment is not allowed](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#const-reassignment-is-not-allowed)
+    * [Rules to follow when working with variables
+](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#rules-to-follow-when-working-with-variables)
   * [Arrow Functions](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#arrow-functions)
     * [Single parameter and implicit return](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#single-parameter-and-implicit-return)
     * [Multiples parameters](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#multiples-parameters)
