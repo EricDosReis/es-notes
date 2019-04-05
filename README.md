@@ -72,7 +72,7 @@
     * [Advantages](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#advantages)
     * [Treating erros with Try/Catch](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#treating-erros-with-trycatch)
     * [Async/Await with multiples Promises](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#asyncawait-with-multiples-promises)   
-  * [PadStart and PadEnd](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#padstart-and-padend)
+  * [String.prototype.padStart() and String.prototype.padEnd()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#stringprototypepadstart-and-stringprototypepadend)
   * [Object.entries()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#objectentries)
   * [Object.values()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#objectvalues)
   * [Object.getOwnPropertyDescriptors()](https://github.com/EricDosReis/es-notes/blob/master/ES2016-2017-2018-2019.md#objectgetownpropertydescriptors)
