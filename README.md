@@ -28,6 +28,7 @@
     * [Tag Functions](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#tag-functions)
   * [Shorthand Properties](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#shorthand-properties)
   * [Default Parameters](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#default-parameters)
+    * [Default values based on other parameters](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#default-values-based-on-other-parameters)
   * [New String Methods](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#new-string-methods)
     * [String.prototype.startsWith()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#stringprototypestartswith)
     * [String.prototype.endsWith()](https://github.com/EricDosReis/es-notes/blob/master/ES2015.md#stringprototypeendswith)
